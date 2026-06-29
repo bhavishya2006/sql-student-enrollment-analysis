@@ -158,7 +158,7 @@ git clone https://github.com/bhavishya2006/sql-student-enrollment-analysis.git
 
 Bhavishya Narravula
 Computer Science Student
-Aspiring Data Analyst and Data Engineer
+
 
 GitHub: [https://github.com/bhavishya2006](https://github.com/bhavishya2006)
 
